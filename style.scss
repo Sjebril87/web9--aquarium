@@ -1,0 +1,110 @@
+@import "@fortawesome/fontawesome-free/css/all.css";
+@import "node_modules/bootstrap/scss/bootstrap";
+.aquarium{
+    
+    background-image: url("static/font.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.fish1{
+position: relative;
+background-image: url("static/poisson1.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+width: 200px;
+height: 100px;
+left: 200px;
+}
+.fish2{
+    position: relative;
+    background-image: url("static/poisson2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 100px;
+    left: 400px;
+}
+   
+.fish3{
+    position: relative;
+    background-image: url("static/poisson3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: contain;
+    width: 200px;
+    height: 100px;
+    right: 100px; 
+    }
+    .fish4{
+        position: relative;
+        background-image: url("static/poisson3.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 200px;
+        height: 100px;
+        left: 900px;  
+        } 
+        .fish5{
+    position: relative;
+    background-image: url("static/poisson1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 100px;
+    left: 700px; 
+    bottom: 500px; 
+    }               
+.algue1{
+ position: relative;
+ background-image: url("static/algue1.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+width: 200px;
+height: 100px;
+top:  100px;
+left: 300px;
+
+}
+.algue2{
+    position: relative;
+    background-image: url("static/algue2.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   width: 200px;
+   height: 100px;
+   bottom: 0px;
+   left: 700px;
+  
+   }  
+   .algue3{
+    position: relative;
+    background-image: url("static/algue3.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   width: 200px;
+   height: 100px;
+   bottom: 100px;
+   left: 900px;
+   
+   }  
+   .algue4{
+    position: relative;
+    background-image: url("static/algue4.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   width: 200px;
+   height: 100px;
+   bottom: 200px;
+   left: 500px;
+};
+   
